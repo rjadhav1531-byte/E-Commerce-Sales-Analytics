@@ -12,7 +12,7 @@ This project analyzes sales data from an e-commerce business to uncover insights
 - **CSV Dataset**
 
 ## 📂 Project Files
-- `database_schema.sql` → Database tables and relationships  
+- `ecommerce analysis.sql` → Database tables and relationships  
 - `queries.sql` → Analytical SQL queries  
 - `Ecommerce analysis data.zip` → Input dataset  
 
