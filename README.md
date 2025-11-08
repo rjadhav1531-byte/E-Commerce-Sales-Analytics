@@ -22,4 +22,5 @@ This project analyzes sales data from an e-commerce business to uncover insights
 3. Customer purchase frequency analysis  
 
 ## 📸 Example Output
-(Add screenshots or query results here)
+<img width="1267" height="807" alt="Screenshot 2025-11-08 173251" src="https://github.com/user-attachments/assets/4f624a8d-ff1c-4695-bd13-d0ee08f46162" />
+
