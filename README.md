@@ -14,7 +14,7 @@ This project analyzes sales data from an e-commerce business to uncover insights
 ## 📂 Project Files
 - `database_schema.sql` → Database tables and relationships  
 - `queries.sql` → Analytical SQL queries  
-- `sample_data.csv` → Input dataset  
+- `Ecommerce analysis data.zip` → Input dataset  
 
 ## 💡 Key Insights
 1. Monthly revenue growth and seasonality  
